@@ -1,0 +1,21 @@
+<resources>
+    <string name="text0">Lost-Found</string>
+    <string name="text00">Login Page</string>
+    <string name="text1">Enter Email</string>
+    <string name="text2">Enter Password</string>
+    <string name="text3">First Name</string>
+    <string name="text4">Last Name</string>
+    <string name="text5">User Id</string>
+    <string name="text6">Password</string>
+    <string name="text7">Mobile No</string>
+    <string name="text8">Email</string>
+    <string name="text9">Enter Valid Email Id</string>
+    <string name="text10">Enter Founded Item</string>
+    <string name="text11">Enter Place</string>
+    <string name="text12">Enter Category</string>
+    <string name="text13">Enter Image</string>
+    <string name="action_settings">My Application</string>
+    <string name="Pass">password</string>
+
+
+</resources>
